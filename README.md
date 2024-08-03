@@ -65,14 +65,14 @@ Essa aplicação visa aplicar os conceitos da Arquitetura Limpa, de modo que o u
 ```
 4. Resultados
 - Post
-![post.png](resources\post.png)
+![post.png](resources/post.png)
 - Get
-![get.png](resources\get.png)
+![get.png](resources/get.png)
 - Get by ID
-![getById.png](resources\getById.png)
+![getById.png](resources/getById.png)
 - Put
-![put.png](resources\put.png)
+![put.png](resources/put.png)
 - Delete
-![delete.png](resources\delete.png)
+![delete.png](resources/delete.png)
 
 ***Obs.: Projeto criado para entender o básico dos conceitos de arquitetura limpa. Aceito feedbacks e dicas de melhorias***
