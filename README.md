@@ -1,4 +1,4 @@
-# Clean Architecture - Gerenciador de Tarefas
+# Gerenciador de Tarefas
 
 ## **Conceito de Arquitetura Limpa (Clean Architecture)**
 
